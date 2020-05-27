@@ -1,0 +1,5 @@
+to:arnoldo_alvarez@hotmail.com
+from:Admin@p3rolix.com
+Subject:Deleted file from AWS Cloud is Done...
+El Usuario ha ingresado en el modulo de Eliminacion en  AWS y ha realizado la tarea siguiente.. 
+El archivo bddRespaldo20200411.bak se ha eliminado satirfactoriamente de AWS

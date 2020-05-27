@@ -1,0 +1,4 @@
+to:arnoldo_alvarez@hotmail.com
+from:Admin@p3rolix.com
+Subject:Upload to AWS Cloud Failed
+Usuario ha cancelado Upload hacia AWS

@@ -1,0 +1,39 @@
+# ! /bin/bash
+# Programa para ejemplificar como capturar la informacion del usuario utilizando solo el  comando read
+#Arnoldo Alvarez
+
+
+#Anadir y eliminar valores en un Arreglo
+#arregloPin[7]=20 #Estamos agregando un numero valor (20) en la posicion 7
+#unset arregloNumeros[0] #estamos aqui liberando la posicion 0 del arreglo de numeros
+#echo "$pin"
+
+pin_final=""
+for ((i=0; i<4; i++))
+do
+    pin=$((1 + RANDOM % 9))
+    #arregloPin[i]=$pin
+    pin_final="$pin&$pin&$pin&$pin"
+echo $pin
+done
+    echo $pin_final
+#IFS=$'\n' read -r -d '' pin_final || (( ${#arregloPin[@]} ))
+ #   echo "Arreglos de Numeros: ${arregloPin[*]}"
+
+#echo "Iterar en la lista de Numeros"
+#for num in ${arregloPin[*]}
+#do
+ #   echo "$num"
+#done
+
+
+#arregloPin=( "${arregloPin[@]}" "${arregloPin[@]}" "${arregloPin[@]}" )    
+#echo -e "\n"
+#echo  "${arregloPin[@]}"
+
+
+
+
+
+
+

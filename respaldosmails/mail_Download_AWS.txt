@@ -1,0 +1,5 @@
+to:arnoldo_alvarez@hotmail.com
+from:Admin@p3rolix.com
+Subject:Download from AWS Cloud is Done...
+Archivo bddRespaldo20200411.bak  ha sido descargado satisfactoriamente desde AWS
+Archivo bddRespaldo20200411.bak  descargado desde AWS en la ruta: AWS_Recovered_Files20200412

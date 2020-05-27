@@ -1,0 +1,5 @@
+to:arnoldo_alvarez@hotmail.com
+from:Admin@p3rolix.com
+Subject:Restore is Done
+Archivo de BD Restaurado /home/ubuntu/shellCourse/Respaldos/bddRespaldo20200411.bak
+Nueva BD creada con exito arnoldb 

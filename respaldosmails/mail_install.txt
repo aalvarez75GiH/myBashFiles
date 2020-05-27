@@ -1,0 +1,5 @@
+to:arnoldo_alvarez@hotmail.com
+from:Admin@p3rolix.com
+Subject:Installation is Done
+Usuario ingresa al modulo de Instalacion de Postgres
+Usuario ha instalado Postgres con exito

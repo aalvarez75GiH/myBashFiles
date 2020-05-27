@@ -1,0 +1,8 @@
+to:arnoldo_alvarez@hotmail.com
+from:Admin@p3rolix.com
+Subject:Backup is Done
+
+Se ha realizado El Backup de la base de datos satisfactoriamente.
+
+Atentamente
+IT

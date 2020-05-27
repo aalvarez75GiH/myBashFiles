@@ -1,0 +1,4 @@
+to:arnoldo_alvarez@hotmail.com
+from:Admin@p3rolix.com
+Subject:Postgres NOT Found
+Usuario intenta restaurar una BD pero Postgresql NO se encuentra instalado

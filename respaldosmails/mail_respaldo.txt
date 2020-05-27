@@ -1,0 +1,4 @@
+to:arnoldo_alvarez@hotmail.com
+from:Admin@p3rolix.com
+Subject:Backup is Done...
+Nombre del Backup creado /home/ubuntu/shellCourse/Respaldos/bddRespaldo20200411.bak

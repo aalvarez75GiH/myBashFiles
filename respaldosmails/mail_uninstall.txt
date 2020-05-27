@@ -1,0 +1,5 @@
+to:arnoldo_alvarez@hotmail.com
+from:Admin@p3rolix.com
+Subject:Uninstall Postgres - Done
+Usuario ingresa al modulo de Desinstalacion de Postgres
+Usuario ha Desinstalado Postgres con exito

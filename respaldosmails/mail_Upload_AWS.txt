@@ -1,0 +1,5 @@
+to:arnoldo_alvarez@hotmail.com
+from:Admin@p3rolix.com
+Subject:Upload to AWS Cloud is Done...
+El Usuario ha ingresado en el modulo de Carga en AWS y ha realizado la tarea siguiente..
+Los Archivos contenidos en /home/ubuntu/shellCourse/Respaldos han sido cargados en AWS
