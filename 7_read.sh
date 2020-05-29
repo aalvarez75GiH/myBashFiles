@@ -5,7 +5,7 @@
 option=0
 backupName=""
 
-echo "Probando ssh y GitHub -  friday 29th"
+echo "Probando ssh y GitHub -  friday 29th - 6.04"
 echo "Programa de utilidades PostGres"
 read -p "Ingresar una Opcion" option
 read -p "Ingrese el nombre del archivo para el BackUp" backupName
